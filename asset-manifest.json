@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj.skyamg-front/static/css/main.923462e5.css",
-    "main.js": "/kj.skyamg-front/static/js/main.610cb4e3.js",
+    "main.js": "/kj.skyamg-front/static/js/main.3c331be2.js",
     "static/js/787.7df8f71c.chunk.js": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/kj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/리셉션.png": "/kj.skyamg-front/static/media/리셉션.8767afebaaadad20f3e9.png",
@@ -32,7 +32,7 @@
     "static/media/초음파.JPG": "/kj.skyamg-front/static/media/초음파.11622d2d17cf77817198.JPG",
     "static/media/이상규.png": "/kj.skyamg-front/static/media/이상규.8535e386b8b7a54923c0.png",
     "static/media/백성현.png": "/kj.skyamg-front/static/media/백성현.b6a5aad429279c2d0075.png",
-    "static/media/skyamg_banner_2025061001.jpg": "/kj.skyamg-front/static/media/skyamg_banner_2025061001.db468668d3e0b97aa5ea.jpg",
+    "static/media/skyamg_banner_2025061202.jpg": "/kj.skyamg-front/static/media/skyamg_banner_2025061202.db468668d3e0b97aa5ea.jpg",
     "static/media/박진형.png": "/kj.skyamg-front/static/media/박진형.144a3369afe082977a83.png",
     "static/media/이가은.png": "/kj.skyamg-front/static/media/이가은.5cbda33e30580cc75f2e.png",
     "static/media/김은호.png": "/kj.skyamg-front/static/media/김은호.72b80424969d160a6fc4.png",
@@ -128,6 +128,7 @@
     "static/media/surgery_01.jpeg": "/kj.skyamg-front/static/media/surgery_01.3929117c1d4f3b4e33cf.jpeg",
     "static/media/스카이입원실_2.jpeg": "/kj.skyamg-front/static/media/스카이입원실_2.e4df09ead491946b9c50.jpeg",
     "static/media/image1.png": "/kj.skyamg-front/static/media/image1.2754f2ec615313cfc232.png",
+    "static/media/skyamg_banner_2025061201.jpg": "/kj.skyamg-front/static/media/skyamg_banner_2025061201.0150e54d9032dc6618ed.jpg",
     "static/media/머리MRI.jpeg": "/kj.skyamg-front/static/media/머리MRI.30af4a975348686bcca1.jpeg",
     "static/media/image3.png": "/kj.skyamg-front/static/media/image3.65ea2f09f50b4bd7e27a.png",
     "static/media/image4.png": "/kj.skyamg-front/static/media/image4.068de6cf130979870fcc.png",
@@ -157,11 +158,11 @@
     "index.html": "/kj.skyamg-front/index.html",
     "static/media/slick.woff": "/kj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.923462e5.css.map": "/kj.skyamg-front/static/css/main.923462e5.css.map",
-    "main.610cb4e3.js.map": "/kj.skyamg-front/static/js/main.610cb4e3.js.map",
+    "main.3c331be2.js.map": "/kj.skyamg-front/static/js/main.3c331be2.js.map",
     "787.7df8f71c.chunk.js.map": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923462e5.css",
-    "static/js/main.610cb4e3.js"
+    "static/js/main.3c331be2.js"
   ]
 }
