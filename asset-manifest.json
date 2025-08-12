@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj.skyamg-front/static/css/main.923462e5.css",
-    "main.js": "/kj.skyamg-front/static/js/main.a09f3d17.js",
+    "main.js": "/kj.skyamg-front/static/js/main.c22885a8.js",
     "static/js/787.7df8f71c.chunk.js": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/kj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/리셉션.png": "/kj.skyamg-front/static/media/리셉션.8767afebaaadad20f3e9.png",
@@ -84,6 +84,7 @@
     "static/media/radioimg_2.jpg": "/kj.skyamg-front/static/media/radioimg_2.04e0cbb8aa9e873477e7.jpg",
     "static/media/radioimg_3.jpg": "/kj.skyamg-front/static/media/radioimg_3.7a03a4792b9d4cac8022.jpg",
     "static/media/skyamg_banner_20240517_2.jpg": "/kj.skyamg-front/static/media/skyamg_banner_20240517_2.90ec3a3b22403933413b.jpg",
+    "static/media/kj_2025081201.png": "/kj.skyamg-front/static/media/kj_2025081201.982ac19ff08ef53e84f2.png",
     "static/media/reimg_3.jpg": "/kj.skyamg-front/static/media/reimg_3.39ec3d4abd5377c3fd23.jpg",
     "static/media/radioimg_4.jpg": "/kj.skyamg-front/static/media/radioimg_4.ef335faab2b7be460d68.jpg",
     "static/media/derimg_3.jpg": "/kj.skyamg-front/static/media/derimg_3.248d7b4a84b73a6d4ac6.jpg",
@@ -158,11 +159,11 @@
     "index.html": "/kj.skyamg-front/index.html",
     "static/media/slick.woff": "/kj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.923462e5.css.map": "/kj.skyamg-front/static/css/main.923462e5.css.map",
-    "main.a09f3d17.js.map": "/kj.skyamg-front/static/js/main.a09f3d17.js.map",
+    "main.c22885a8.js.map": "/kj.skyamg-front/static/js/main.c22885a8.js.map",
     "787.7df8f71c.chunk.js.map": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923462e5.css",
-    "static/js/main.a09f3d17.js"
+    "static/js/main.c22885a8.js"
   ]
 }
