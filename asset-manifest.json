@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj.skyamg-front/static/css/main.923462e5.css",
-    "main.js": "/kj.skyamg-front/static/js/main.631bfe70.js",
+    "main.js": "/kj.skyamg-front/static/js/main.97b4a2ee.js",
     "static/js/787.7df8f71c.chunk.js": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/kj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/리셉션.png": "/kj.skyamg-front/static/media/리셉션.8767afebaaadad20f3e9.png",
@@ -84,7 +84,6 @@
     "static/media/radioimg_2.jpg": "/kj.skyamg-front/static/media/radioimg_2.04e0cbb8aa9e873477e7.jpg",
     "static/media/radioimg_3.jpg": "/kj.skyamg-front/static/media/radioimg_3.7a03a4792b9d4cac8022.jpg",
     "static/media/skyamg_banner_20240517_2.jpg": "/kj.skyamg-front/static/media/skyamg_banner_20240517_2.90ec3a3b22403933413b.jpg",
-    "static/media/kj_2025081201.png": "/kj.skyamg-front/static/media/kj_2025081201.982ac19ff08ef53e84f2.png",
     "static/media/reimg_3.jpg": "/kj.skyamg-front/static/media/reimg_3.39ec3d4abd5377c3fd23.jpg",
     "static/media/radioimg_4.jpg": "/kj.skyamg-front/static/media/radioimg_4.ef335faab2b7be460d68.jpg",
     "static/media/derimg_3.jpg": "/kj.skyamg-front/static/media/derimg_3.248d7b4a84b73a6d4ac6.jpg",
@@ -130,6 +129,7 @@
     "static/media/스카이입원실_2.jpeg": "/kj.skyamg-front/static/media/스카이입원실_2.e4df09ead491946b9c50.jpeg",
     "static/media/image1.png": "/kj.skyamg-front/static/media/image1.2754f2ec615313cfc232.png",
     "static/media/머리MRI.jpeg": "/kj.skyamg-front/static/media/머리MRI.30af4a975348686bcca1.jpeg",
+    "static/media/kj_2025091801.png": "/kj.skyamg-front/static/media/kj_2025091801.1d222b5975b1158b182d.png",
     "static/media/image3.png": "/kj.skyamg-front/static/media/image3.65ea2f09f50b4bd7e27a.png",
     "static/media/image4.png": "/kj.skyamg-front/static/media/image4.068de6cf130979870fcc.png",
     "static/media/충남대로고.png": "/kj.skyamg-front/static/media/충남대로고.73378eb91d19e26935b9.png",
@@ -159,11 +159,11 @@
     "index.html": "/kj.skyamg-front/index.html",
     "static/media/slick.woff": "/kj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.923462e5.css.map": "/kj.skyamg-front/static/css/main.923462e5.css.map",
-    "main.631bfe70.js.map": "/kj.skyamg-front/static/js/main.631bfe70.js.map",
+    "main.97b4a2ee.js.map": "/kj.skyamg-front/static/js/main.97b4a2ee.js.map",
     "787.7df8f71c.chunk.js.map": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923462e5.css",
-    "static/js/main.631bfe70.js"
+    "static/js/main.97b4a2ee.js"
   ]
 }
