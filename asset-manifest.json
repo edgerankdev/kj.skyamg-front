@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj.skyamg-front/static/css/main.923462e5.css",
-    "main.js": "/kj.skyamg-front/static/js/main.3d5f90cd.js",
+    "main.js": "/kj.skyamg-front/static/js/main.effd7a79.js",
     "static/js/787.7df8f71c.chunk.js": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/kj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/리셉션.png": "/kj.skyamg-front/static/media/리셉션.8767afebaaadad20f3e9.png",
@@ -159,11 +159,11 @@
     "index.html": "/kj.skyamg-front/index.html",
     "static/media/slick.woff": "/kj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.923462e5.css.map": "/kj.skyamg-front/static/css/main.923462e5.css.map",
-    "main.3d5f90cd.js.map": "/kj.skyamg-front/static/js/main.3d5f90cd.js.map",
+    "main.effd7a79.js.map": "/kj.skyamg-front/static/js/main.effd7a79.js.map",
     "787.7df8f71c.chunk.js.map": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923462e5.css",
-    "static/js/main.3d5f90cd.js"
+    "static/js/main.effd7a79.js"
   ]
 }
