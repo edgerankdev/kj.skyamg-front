@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj.skyamg-front/static/css/main.923462e5.css",
-    "main.js": "/kj.skyamg-front/static/js/main.8719f63c.js",
+    "main.js": "/kj.skyamg-front/static/js/main.fd57a027.js",
     "static/js/787.7df8f71c.chunk.js": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/kj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/리셉션.png": "/kj.skyamg-front/static/media/리셉션.8767afebaaadad20f3e9.png",
@@ -34,6 +34,7 @@
     "static/media/doc_321.png": "/kj.skyamg-front/static/media/doc_321.dc21cd8bebd07bb333c9.png",
     "static/media/이상규.png": "/kj.skyamg-front/static/media/이상규.8535e386b8b7a54923c0.png",
     "static/media/백성현.png": "/kj.skyamg-front/static/media/백성현.b6a5aad429279c2d0075.png",
+    "static/media/김준우.png": "/kj.skyamg-front/static/media/김준우.2298ed65074078a0102b.png",
     "static/media/박진형.png": "/kj.skyamg-front/static/media/박진형.144a3369afe082977a83.png",
     "static/media/박신욱.png": "/kj.skyamg-front/static/media/박신욱.e01e9c8c776212b536c1.png",
     "static/media/doc_311.png": "/kj.skyamg-front/static/media/doc_311.15bdfdfd31d6bf5822c2.png",
@@ -163,11 +164,11 @@
     "index.html": "/kj.skyamg-front/index.html",
     "static/media/slick.woff": "/kj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.923462e5.css.map": "/kj.skyamg-front/static/css/main.923462e5.css.map",
-    "main.8719f63c.js.map": "/kj.skyamg-front/static/js/main.8719f63c.js.map",
+    "main.fd57a027.js.map": "/kj.skyamg-front/static/js/main.fd57a027.js.map",
     "787.7df8f71c.chunk.js.map": "/kj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923462e5.css",
-    "static/js/main.8719f63c.js"
+    "static/js/main.fd57a027.js"
   ]
 }
